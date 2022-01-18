@@ -1,0 +1,13 @@
+C:\Users\Kristiyan\source\repos\Sets and Dictionaries Advanced Lab\T06. Record Unique Names\bin\Debug\netcoreapp3.1\T06. Record Unique Names.exe
+C:\Users\Kristiyan\source\repos\Sets and Dictionaries Advanced Lab\T06. Record Unique Names\bin\Debug\netcoreapp3.1\T06. Record Unique Names.deps.json
+C:\Users\Kristiyan\source\repos\Sets and Dictionaries Advanced Lab\T06. Record Unique Names\bin\Debug\netcoreapp3.1\T06. Record Unique Names.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\Sets and Dictionaries Advanced Lab\T06. Record Unique Names\bin\Debug\netcoreapp3.1\T06. Record Unique Names.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\Sets and Dictionaries Advanced Lab\T06. Record Unique Names\bin\Debug\netcoreapp3.1\T06. Record Unique Names.dll
+C:\Users\Kristiyan\source\repos\Sets and Dictionaries Advanced Lab\T06. Record Unique Names\bin\Debug\netcoreapp3.1\T06. Record Unique Names.pdb
+C:\Users\Kristiyan\source\repos\Sets and Dictionaries Advanced Lab\T06. Record Unique Names\obj\Debug\netcoreapp3.1\T06. Record Unique Names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\Sets and Dictionaries Advanced Lab\T06. Record Unique Names\obj\Debug\netcoreapp3.1\T06. Record Unique Names.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\Sets and Dictionaries Advanced Lab\T06. Record Unique Names\obj\Debug\netcoreapp3.1\T06. Record Unique Names.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\Sets and Dictionaries Advanced Lab\T06. Record Unique Names\obj\Debug\netcoreapp3.1\T06. Record Unique Names.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\Sets and Dictionaries Advanced Lab\T06. Record Unique Names\obj\Debug\netcoreapp3.1\T06. Record Unique Names.dll
+C:\Users\Kristiyan\source\repos\Sets and Dictionaries Advanced Lab\T06. Record Unique Names\obj\Debug\netcoreapp3.1\T06. Record Unique Names.pdb
+C:\Users\Kristiyan\source\repos\Sets and Dictionaries Advanced Lab\T06. Record Unique Names\obj\Debug\netcoreapp3.1\T06. Record Unique Names.genruntimeconfig.cache
